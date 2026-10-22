@@ -1,0 +1,20 @@
+
+producto,categoria,precio,cantidad,sucursal
+Laptop,Electronica,650.00,8,San Salvador
+Mouse,Accesorios,12.50,30,San Salvador
+Teclado,Accesorios,25.00,20,San Salvador
+Monitor,Electronica,180.00,10,San Salvador
+Impresora,Oficina,150.00,6,Santa Ana
+Laptop,Electronica,650.00,5,Santa Ana
+Mouse,Accesorios,12.50,25,Santa Ana
+Escritorio,Muebles,120.00,7,Santa Ana
+Teclado,Accesorios,25.00,18,San Miguel
+Monitor,Electronica,180.00,9,San Miguel
+Laptop,Electronica,650.00,4,San Miguel
+Silla,Muebles,45.00,15,La Libertad
+Impresora,Oficina,150.00,5,La Libertad
+Mouse,Accesorios,12.50,22,La Libertad
+Laptop,Electronica,650.00,3,Sonsonate
+Monitor,Electronica,180.00,7,Sonsonate
+Silla,Muebles,45.00,12,Sonsonate
+Escritorio,Muebles,120.00,4,Sonsonate
